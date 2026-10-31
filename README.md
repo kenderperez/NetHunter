@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/RFEjV6h.png" alt="NetHunter Logo" width="450">
+  <img src="https://i.imgur.com/k2k75dS.png" alt="NetHunter Logo" width="450">
 </p>
 
 <p align="center">
