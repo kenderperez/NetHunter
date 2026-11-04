@@ -16,7 +16,7 @@
 Escáner de red interactivo con visualización de topología en el navegador en tiempo real (`vis-network`), descubrimiento de dispositivos en Capa 2 / Capa 3 (`Scapy`), identificación de servicios y reproductor en vivo para cámaras **CCTV / RTSP** integrado vía `FFmpeg`.
 
 <p align="center">
-  <img src="https://i.imgur.com/3F1oo2l.png" alt="NetHunter" width="1200">
+  <img src="https://i.imgur.com/B5FQLHD.png" alt="NetHunter" width="1200">
 </p>
 
 ## 🚀 Requisitos Previos
